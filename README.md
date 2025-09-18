@@ -1,4 +1,4 @@
-# Week 1 Lab 1: Timetabled
+# Week 1 Lab: Timetabled
 
 ## CodePath WEB 102 Group 6
 
